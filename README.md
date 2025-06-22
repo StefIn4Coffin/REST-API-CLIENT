@@ -29,3 +29,5 @@ I also manually override the time value to 2025-06-22T18:00 so it doesn’t chan
 Finally, I printed the output in a very basic but clean format with labels like "------ Current Weather ------" and values under it. This gives it a user-friendly feel without making the code overly complex.
 
 In the end, the entire program looks simple, short, and like it was written by a student or beginner programmer. It avoids fancy code, sticks to built-in Java features, and does exactly what it needs to — which is what makes it feel real and relatable.
+
+![Image](https://github.com/user-attachments/assets/46a1976d-b63b-4843-a32e-d8574da7bc08)
